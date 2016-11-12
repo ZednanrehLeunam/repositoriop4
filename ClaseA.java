@@ -6,6 +6,7 @@ public class ClaseA{
   Public ClaseA(){
     x=" ";
     y=0;
+	z=0;
      }
   public void mensaje(){
     System.out.println("Hola!");
